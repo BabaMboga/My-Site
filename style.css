@@ -30,3 +30,9 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+  #backgroundimage{
+    background-image: url('gold\ \ background.jpg'), url(chess_by_spiderson5000_djmoze-pre.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+  }
