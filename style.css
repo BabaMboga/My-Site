@@ -37,7 +37,7 @@ body {
     padding: 15px;
   }
   /* Style all mboga awesome icons */
-.ma {
+.fa {
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -46,26 +46,26 @@ body {
 }
 
 /* Add a hover effect if you want */
-.ma:hover {
+.fa:hover {
   opacity: 0.7;
 }
 
 /* Set a specific color for each brand */
 
 /* Facebook */
-.ma-facebook {
+.fa-facebook {
   background: #3B5998;
   color: white;
 }
 
 /* Twitter */
-.ma-twitter {
+.fa-twitter {
   background: #55ACEE;
   color: white;
 }
 
 /* Instagram */
-.ma-instagram {
+.fa-instagram {
   background:#ddd;
   color: white;
 }
